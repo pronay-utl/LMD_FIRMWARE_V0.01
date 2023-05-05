@@ -9,7 +9,7 @@ def callbackPN532(tag, msg):
 
 
 # device uart, aid for android, callback
-pn532 = PN532('tty:S0', 'A0000001020304', callbackPN532)
+pn532 = PN532('tty:AMA0', 'A0000001020304', callbackPN532) 
 
 while True:
     listen = pn532.listen()
