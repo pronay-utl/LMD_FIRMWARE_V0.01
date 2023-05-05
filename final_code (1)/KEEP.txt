@@ -1,0 +1,12 @@
+ etc/nfc/libnfc.conf
+
+https://forums.raspberrypi.com/viewtopic.php?t=175680
+
+https://raspberrypi.stackexchange.com/questions/56496/pn532-nfc-module-not-working-on-pi-3
+
+https://www.electronicwings.com/raspberry-pi/raspberry-pi-uart-communication-using-python-and-c
+
+
+ls -l /dev/ttyACM0
+
+ls -l /dev/ttyS0
